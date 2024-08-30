@@ -1,0 +1,25 @@
+{
+	"schema": "1.0",
+	"type": "whmcs-servers",
+	"name": "pureservers",
+	"license": "MIT",
+	"category": "provisioning",
+	"description": {
+		"name": "Интеграция PureServers",
+		"tagline": "Официальный плагин PureServers для WHMCS."
+	},
+	"logo": {
+		"filename": "logo.png"
+	},
+	"support": {
+		"homepage": "https://pureservers.by",
+		"support_url": "https://github.com/PureServers/whmcs-plugin",
+		"email": "support@pureservers.by"
+	},
+	"authors": [
+		{
+			"name": "DimaCrafter",
+			"homepage": "https://github.com/DimaCrafter"
+		}
+	]
+}
